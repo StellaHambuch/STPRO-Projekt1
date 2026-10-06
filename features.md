@@ -1,4 +1,4 @@
-# Features
+# Features 
 
 1. **Ausgabe eintragen** – Betrag, Kategorie, Datum und kurze Beschreibung einer Ausgabe eingeben.
 2. **Einnahme eintragen** – Betrag, Datum und Beschreibung einer Einnahme eingeben.

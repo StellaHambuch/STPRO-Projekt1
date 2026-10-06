@@ -1,4 +1,4 @@
-# Hinweise für KI-Agenten und Mitwirkende
+# Hinweise für KI-Agenten 
 
 - Lies zuerst die README.md und beachte die dort beschriebenen Projektvorgaben.
 - Entwickle das Projekt als einfaches Java-Konsolenprogramm.

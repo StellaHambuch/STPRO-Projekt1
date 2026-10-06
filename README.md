@@ -1,13 +1,13 @@
 
 
-# Ausgabenmanager
+# Money Manager
 
-**Autor:** Stella Hambuch 
+**Autorin:** Stella Hambuch 
 
 
 ## Projektbeschreibung
 
-Der Ausgabenmanager ist ein Java-Konsolenprogramm, mit dem persönliche Ausgaben und Einnahmen erfasst und übersichtlich verwaltet werden können. Zu jeder Buchung können ein Betrag, ein Datum und eine kurze Beschreibung gespeichert werden; Ausgaben erhalten außerdem eine Kategorie. Kategorien wie Lebensmittel, Freizeit oder Transport sollen durch Symbole und, sofern die Konsole dies unterstützt, Farben leichter erkennbar sein.
+Der Money Manager ist ein Java-Konsolenprogramm, mit dem persönliche Ausgaben und Einnahmen erfasst und übersichtlich verwaltet werden können. Zu jeder Buchung können ein Betrag, ein Datum und eine kurze Beschreibung gespeichert werden; Ausgaben erhalten außerdem eine Kategorie. Kategorien wie Lebensmittel, Freizeit oder Transport sollen durch Symbole und, sofern die Konsole dies unterstützt, Farben leichter erkennbar sein.
 
 Das Projekt wird im Rahmen des Unterrichts schrittweise entwickelt. Ziel ist es, die Grundlagen der strukturierten Programmierung in Java praktisch anzuwenden und dabei den Einsatz von generativer KI beim Programmieren kennenzulernen.
 
