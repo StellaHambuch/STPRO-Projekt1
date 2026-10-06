@@ -1,6 +1,9 @@
+
+
 # Ausgabenmanager
 
-**Autor:** [Dein Name]
+**Autor:** Stella Hambuch 
+
 
 ## Projektbeschreibung
 
