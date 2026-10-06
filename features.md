@@ -11,6 +11,11 @@
 9. **Einfache Textgrafik anzeigen** – Die Ausgaben pro Kategorie als Balken aus Zeichen wie `#` darstellen. Je länger der Balken, desto höher der Betrag.
 10. **Monatsbudget festlegen** – Ein Gesamtbudget für den Monat eingeben.
 11. **Budgetverbrauch anzeigen** – Berechnen und anzeigen, wie viel Prozent des Monatsbudgets bereits ausgegeben wurden und welcher Betrag noch übrig ist. Liegen die Ausgaben über dem Budget, soll das ebenfalls deutlich angezeigt werden.
-12. **Konsolenmenü verwenden** – Über ein Menü eine Funktion auswählen und das Programm beenden.
+12. **Sparziele verwalten** – In einem eigenen Bereich des Konsolenmenüs mehrere Sparziele anlegen, zum Beispiel „Auto“, „Kleidung“ oder „Urlaub“.
+13. **Sparziel mit Symbol versehen** – Bei jedem Ziel einen Namen, ein Symbol, den gewünschten Zielbetrag und den bereits gesparten Betrag speichern.
+14. **Gesparten Betrag aktualisieren** – Zu einem Sparziel einen weiteren Sparbetrag hinzufügen oder den bereits gesparten Betrag anpassen.
+15. **Sparfortschritt anzeigen** – Für jedes Ziel den gesparten Betrag, den noch fehlenden Betrag und den Fortschritt in Prozent anzeigen. Erreichte Ziele werden als abgeschlossen kenntlich gemacht.
+16. **Sparziele als Textgrafik anzeigen** – Den Fortschritt mit einem einfachen Balken aus Zeichen wie `#` darstellen.
+17. **Konsolenmenü verwenden** – Über ein Menü eine Funktion auswählen, den Sparziel-Bereich öffnen und das Programm beenden.
 
-Die Features beschreiben den geplanten Projektumfang. Sie können schrittweise umgesetzt werden. Für eine erste Version bieten sich Ausgabe und Einnahme erfassen, die Monatsübersicht und das Budget an; Symbole, Farben und die Textgrafik können anschließend ergänzt werden.
+Die Features beschreiben den geplanten Projektumfang. Sie können schrittweise umgesetzt werden. Für eine erste Version bieten sich Einnahmen und Ausgaben erfassen, die Monatsübersicht, das Budget sowie Sparziele mit Fortschritt an; Symbole, Farben und Textgrafiken können anschließend ergänzt werden.

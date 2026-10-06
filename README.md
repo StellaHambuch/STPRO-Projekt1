@@ -13,7 +13,7 @@ Das Projekt wird im Rahmen des Unterrichts schrittweise entwickelt. Ziel ist es,
 
 ## Geplante Nutzung
 
-Das Programm soll über ein Konsolenmenü bedient werden. Nutzerinnen und Nutzer können Einnahmen und Ausgaben eingeben, für einen Monat zusammenfassen und die Ausgaben mit einem festgelegten Monatsbudget vergleichen. Eine einfache Textgrafik soll Ausgaben nach Kategorie veranschaulichen.
+Das Programm soll über ein Konsolenmenü bedient werden. Nutzerinnen und Nutzer können Einnahmen und Ausgaben eingeben, für einen Monat zusammenfassen und die Ausgaben mit einem festgelegten Monatsbudget vergleichen. In einem eigenen Menübereich lassen sich mehrere Sparziele anlegen, etwa für ein Auto, Kleidung oder Urlaub. Für jedes Ziel können ein Symbol, der gewünschte Betrag und der bereits gesparte Betrag erfasst werden. Das Programm zeigt den Fortschritt in Prozent und als einfache Textgrafik an.
 
 ## Technische Vorgaben
 
@@ -23,4 +23,4 @@ Das Programm soll über ein Konsolenmenü bedient werden. Nutzerinnen und Nutzer
 - Daten sollen mit Arrays gespeichert werden.
 - Keine Abstraktionen, Vererbung, Collections oder sonstigen höheren Java-Features verwenden.
 - Die Kategorien sollen farblich dargestellt werden, sofern dies in der Konsole unterstützt wird.
-- Die Monatsübersicht und das Diagramm sollen als einfache Konsolenausgabe umgesetzt werden; ein grafisches Fenster ist nicht erforderlich.
+- Monatsübersicht, Diagramme und Sparziel-Bereich sollen als einfache Konsolenausgabe umgesetzt werden; ein grafisches Fenster ist nicht erforderlich.
